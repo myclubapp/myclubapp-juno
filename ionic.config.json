@@ -1,0 +1,7 @@
+{
+  "name": "my-club-juno",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
